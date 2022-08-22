@@ -1,0 +1,11 @@
+{
+"companyName": "Metadatagame",
+"productName": "Secret Wars",
+"dataUrl": "Pubg.data.unityweb",
+"asmCodeUrl": "Pubg.asm.code.unityweb",
+"asmMemoryUrl": "Pubg.asm.memory.unityweb",
+"asmFrameworkUrl": "Pubg.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
